@@ -33,6 +33,11 @@ input {
     padding-left: 40px;
 }
 
+button{
+    all:unset
+    
+}
+
 footer{
     height: 80px;
     width: 375px;
