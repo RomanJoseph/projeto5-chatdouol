@@ -35,7 +35,7 @@ input {
 
 button{
     all:unset
-    
+
 }
 
 footer{
@@ -84,12 +84,7 @@ footer img{
     height: 100%; 
 }
 
-.user{
-    font-weight: 700;
-    margin-right: 5px;
-}
-
-.to{
+.to{    
     margin-right: 5px;
     white-space: nowrap;
 }
@@ -103,6 +98,10 @@ footer img{
     white-space: nowrap;
 }
 
-#first-msg{
+.first-msg{
     margin-top: 106px;
+}
+
+.last-msg{
+    margin-bottom: 85px;
 }
